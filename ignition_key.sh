@@ -29,7 +29,6 @@ EOF
 
 # ============================== SSH ==============================
 touch ~/.ssh/config
-cat >> ~/.ssh/config << EOF
 
 echo "SSH CONFIG CREATED. FILL IT OUT!!!\n"
 # ============================== SSH ==============================
