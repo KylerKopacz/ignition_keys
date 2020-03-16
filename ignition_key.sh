@@ -31,18 +31,7 @@ EOF
 touch ~/.ssh/config
 cat >> ~/.ssh/config << EOF
 
-Host remus
-	User kkopacz21
-	HostName remus.amherst.edu
-
-Host romulus
-	User kkopacz21
-	HostName romulus.amherst.edu
-
-Host vega
-	User kkopacz21
-	HostName vega.cs.amherst.edu
-EOF
+echo "SSH CONFIG CREATED. FILL IT OUT!!!\n"
 # ============================== SSH ==============================
 
 # ============================== Homebrew ==============================
