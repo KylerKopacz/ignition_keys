@@ -1,4 +1,4 @@
-# /bin/bash
+#!/bin/bash
 
 # ============================== BASH ==============================
 cat >> ~/.bash_profile << EOF 
@@ -62,11 +62,13 @@ brew install neovim
 brew install node
 brew install make
 brew install gradle
+brew install git
 brew cask install iterm2
 brew cask install google-chrome
 brew cask install visual-studio-code
 brew cask install xquartz
 brew cask install google-backup-and-sync
+brew cask install app-cleaner
 # ============================== Homebrew ==============================
 
 # ============================== Misc ==============================
